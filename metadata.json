@@ -1,0 +1,6 @@
+{
+  "name": "EduBridge AI",
+  "description": "Personalized AI explanations and interactive practice quizzes tailored for students in Akwa Ibom, Nigeria. Learn smarter. Understand better.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
